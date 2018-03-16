@@ -27,7 +27,11 @@ export default {
 <style scoped>
 .home{
   height: 100vh;
+<<<<<<< HEAD
   background: url('https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=705172301,517581716&fm=27&gp=0.jpg') no-repeat 55% 100%
+=======
+  background: url('https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=2483010464,2270952456&fm=27&gp=0.jpg') no-repeat 55% 100%
+>>>>>>> ef5e590d8b715926d4c05d0f6956938ac31eaf99
 }
 .wrap{
   margin: 200px auto;

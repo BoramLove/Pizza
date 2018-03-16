@@ -27,15 +27,16 @@ export default {
 <style scoped>
 .home{
   height: 100vh;
-  background: url('/static/img/sexlove-boram.jpg') no-repeat 55% 100%
+  background: url('https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=705172301,517581716&fm=27&gp=0.jpg') no-repeat ;
+  background-size:100%;
 }
 .wrap{
   margin: 200px auto;
   text-align:center;
   background-color: #eee;
   opacity:0.8;
-  max-width: 70vw;
-  max-height: 30vh;
+  width:450px;
+  height: 250px;
   padding: 20px;
 }
 button{

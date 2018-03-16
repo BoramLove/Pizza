@@ -3,7 +3,7 @@
     <div class="col-md-12">
       <div class="card">
         <div class="card-body">
-          <img class="mx-auto d-block" src="../../src/assets/sexlove-boram.jpg">
+          <img class="mx-auto d-block" src="https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1793187368,2549264960&fm=27&gp=0.jpg">
           <form @submit.prevent="onSubmit">
             <div class="form-group">
               <label for="email">邮箱</label>

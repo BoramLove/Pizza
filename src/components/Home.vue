@@ -27,12 +27,8 @@ export default {
 <style scoped>
 .home{
   height: 100vh;
-<<<<<<< HEAD
   background: url('https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=705172301,517581716&fm=27&gp=0.jpg') no-repeat ;
   background-size:100%;
-=======
-  background: url('https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=705172301,517581716&fm=27&gp=0.jpg') no-repeat 55% 100%;
->>>>>>> gh-pages
 }
 .wrap{
   margin: 200px auto;

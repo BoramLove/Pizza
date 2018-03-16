@@ -27,7 +27,7 @@ export default {
 <style scoped>
 .home{
   height: 100vh;
-  background: url('../../src/assets/sexlove-boram.jpg') no-repeat 55% 100%
+  background: url('@/assets/sexlove-boram.jpg') no-repeat 55% 100%
 }
 .wrap{
   margin: 200px auto;
